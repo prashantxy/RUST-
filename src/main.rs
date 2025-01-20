@@ -1,7 +1,7 @@
 use actix_web::{web, App, HttpServer, Responder, HttpResponse};
 
 async fn greet() -> impl Responder {
-    HttpResponse::Ok().body("Hello, Rust with Actix! ")
+    HttpResponse::Ok().body("Hello guy's, Rust with Actix! ")
 }
 
 #[actix_web::main]
