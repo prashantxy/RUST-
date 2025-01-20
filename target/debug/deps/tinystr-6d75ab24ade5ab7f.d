@@ -1,0 +1,12 @@
+C:\Users\pdube\OneDrive\Desktop\Rust\my_project\target\debug\deps\libtinystr-6d75ab24ade5ab7f.rmeta: C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+C:\Users\pdube\OneDrive\Desktop\Rust\my_project\target\debug\deps\tinystr-6d75ab24ade5ab7f.d: C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs:

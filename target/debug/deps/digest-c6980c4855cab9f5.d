@@ -1,0 +1,11 @@
+C:\Users\pdube\OneDrive\Desktop\Rust\my_project\target\debug\deps\libdigest-c6980c4855cab9f5.rmeta: C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs
+
+C:\Users\pdube\OneDrive\Desktop\Rust\my_project\target\debug\deps\digest-c6980c4855cab9f5.d: C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs
+
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs:
+C:\Users\pdube\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs:
