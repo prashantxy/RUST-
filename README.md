@@ -1,0 +1,1 @@
+learned rust set-up and all other basic stuffs and apart from it also setuped it's environment and explored about all the actix - web and other stuffs like that. and also created server regarding that.
