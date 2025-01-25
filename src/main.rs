@@ -1,7 +1,7 @@
 use actix_web::{web, App, HttpServer, Responder, HttpResponse};
 
 async fn greet() -> impl Responder {
-    HttpResponse::Ok().body("Hello guy's, Rust with Actix! ")
+    HttpResponse::Ok().body("Hello, Rust with Actix! ")
 }
 
 #[actix_web::main]
@@ -12,8 +12,9 @@ async fn main() -> std::io::Result<()> {
     })
     .bind("127.0.0.1:8080")?
     .run()
-    .await
+   .await
 }
+
 
 
 
